@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react";
 import { Button } from "../Button/Button";
-import { Input } from "../Input/inputLabel";
+import { Input } from "../Input/InputLabel";
 import { generator } from "../../utili/generator";
 
 const initialCharset = "abcdefghijklmnopqrstuvwxyz";
